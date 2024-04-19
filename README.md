@@ -2,7 +2,9 @@
 
 - Currently using packer
 
-ToDo
+
+**ToDo**
+
 1. Use lazy.nvim
 2. Install and configure harpoon
 3. Configure fugitive (already installed)
