@@ -1,7 +1,7 @@
 # Hiroshi init.lua
 
 ### REQUIREMENTS
-- neovim v0.9.4 _anything higher will cause errors idk why ¯\_(ツ)_/¯_
+- neovim v0.9.4 _anything higher will cause errors idk why_ ¯\_(ツ)_/¯
 
 
 **ToDo**
