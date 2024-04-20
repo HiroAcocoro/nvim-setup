@@ -12,14 +12,5 @@
 4. ✅ Restructure plugins following lazy nvim docs
 5. Configure LSP
 6. ✅ Formatter
+7. Autocomplete & Snippets
 
-**Current Plugins**
-- lazy
-- telescope
-- treesitter
-- gruvbox-material (theme)
-- vimsence (discord precense)
-- gitsigns
-- vim-fugitive
-- Neotree
-- lualine
