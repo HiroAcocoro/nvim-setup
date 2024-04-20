@@ -21,3 +21,4 @@
 - gitsigns
 - vim-fugitive
 - Neotree
+- lualine
