@@ -2,13 +2,13 @@
 
 ### REQUIREMENTS
 - neovim v0.9.4 _anything higher will cause errors idk why_
-
+- nerdfont installation to your terminal (optional for Neotree)
 
 **ToDo**
 
 1. ✅ Use lazy.nvim
 2. Install and configure harpoon
-3. Neotree
+3. ✅ Neotree
 
 
 **Current Plugins**
@@ -20,3 +20,4 @@
 - vimsence (discord precense)
 - gitsigns
 - vim-fugitive
+- Neotree
