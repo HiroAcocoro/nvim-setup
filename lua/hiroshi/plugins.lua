@@ -30,10 +30,9 @@ local plugins = {
 		},
 	},
 	{ 'nvim-treesitter/nvim-treesitter', build = ':TSUpdate' },
-    { "sainnhe/gruvbox-material", name = "gruvbox-material", priority = 1000 },
+	{ "sainnhe/gruvbox-material",        name = "gruvbox-material", priority = 1000 },
 	{ 'nvim-treesitter/playground' },
 
-	"williamboman/mason.nvim",
 	"vimsence/vimsence",
 	"lewis6991/gitsigns.nvim",
 	"tpope/vim-fugitive",
@@ -41,4 +40,4 @@ local plugins = {
 
 local opts = {},
 
-require("lazy").setup(plugins, opts)
+	require("lazy").setup(plugins, opts)
