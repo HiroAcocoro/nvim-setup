@@ -10,7 +10,7 @@
 2. Install and configure harpoon
 3. ✅ Neotree
 4. ✅ Restructure plugins following lazy nvim docs
-5. Configure LSP
+5. ✅ Configure LSP
 6. ✅ Formatter
-7. Autocomplete & Snippets
+7. ✅ Autocomplete & Snippets
 
