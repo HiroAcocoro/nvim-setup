@@ -8,8 +8,7 @@
 
 1. ✅ Use lazy.nvim
 2. Install and configure harpoon
-3. Configure fugitive (already installed)
-4. Install and configure rigrep
+3. Neotree
 
 
 **Current Plugins**
