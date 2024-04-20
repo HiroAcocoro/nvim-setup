@@ -41,7 +41,7 @@ local plugins = {
     },
 	{ "sainnhe/gruvbox-material",        name = "gruvbox-material", priority = 1000 },
 	{ 'nvim-treesitter/playground' },
-
+    "nvim-lualine/lualine.nvim",
 	"vimsence/vimsence",
 	"lewis6991/gitsigns.nvim",
 	"tpope/vim-fugitive",
