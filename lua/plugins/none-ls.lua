@@ -5,8 +5,15 @@ return {
 
 		null_ls.setup({
 			sources = {
+        --lua
 				null_ls.builtins.formatting.stylua,
-			},
+				--TS
+        null_ls.builtins.formatting.biome,
+				null_ls.builtins.diagnostics.biome,
+        --Go
+				null_ls.builtins.diagnostics.golangci_lint,
+				null_ls.builtins.formatting.golines,
+      },
 		})
 
 		vim.keymap.set("n", "<leader>ff", vim.lsp.buf.format, {})
