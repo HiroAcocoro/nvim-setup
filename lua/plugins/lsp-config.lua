@@ -1,5 +1,5 @@
 return {
-  {
+	{
 		"williamboman/mason.nvim",
 		lazy = false,
 		config = function()
@@ -35,6 +35,12 @@ return {
 			lspconfig.golangci_lint_ls.setup({
 				capabilities = capabilities,
 			})
+			lspconfig.eslint.setup({
+				capabilities = capabilities,
+			})
+      lspconfig.biome.setup({
+        capabilities = capabilities,
+      })
 
 			vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
 			vim.keymap.set("n", "<leader>gd", vim.lsp.buf.definition, {})
