@@ -26,3 +26,8 @@ vim.opt.isfname:append("@-@")
 vim.g.mapleader = " "
 
 vim.opt.clipboard = "unnamedplus"
+
+-- which-key
+vim.o.timeout = true
+vim.o.timeoutlen = 300
+vim.o.mouse = ""
