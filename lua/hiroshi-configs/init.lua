@@ -1,2 +1,2 @@
 require("hiroshi-configs.remap")
-require("hiroshi-configs.set")
+require("hiroshi-configs.settings")
