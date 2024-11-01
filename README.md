@@ -7,4 +7,4 @@
 
 
 ### Influence
-- followed a lot of the nvim setup to https://www.josean.com/posts/how-to-setup-neovim-2024
+- followed a lot of the nvim setup from https://www.josean.com/posts/how-to-setup-neovim-2024
